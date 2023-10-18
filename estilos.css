@@ -28,7 +28,7 @@ header {/*caracteristicas elementos dentro del header de la pagina*/
 }
 @media screen and (max-width: 700px) {
 header {
-	height: 290px;  /* altura del encabezado, equivale a 5.5em*/
+	height: 380px;  /* altura del encabezado, equivale a 5.5em*/
 	}
 }
 .menu-container {/*caracteristicas elementos en contenedor con la clase menu-container*/
